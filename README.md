@@ -1,16 +1,31 @@
-# flutter_application_1
+<h1 align="center">Hi 👋, I'm Caner</h1>
+<h3 align="center">Caner Doğan Mobil Application</h3>
 
-A new Flutter project.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dogann_caner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dogann_caner" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/canerdogann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canerdogann" height="30" width="40" /></a>
+<a href="https://instagram.com/__canerdogan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__canerdogan__" height="30" width="40" /></a>
+</p>
 
-## Getting Started
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![1](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/4147b7ce-41f6-421e-9ffb-13292917226c)
+<br></br>
+![2](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/ff2ad17e-5a39-4361-a733-bb90b6a79d4c)
+<br></br>
+![3](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/261153fc-fffb-472d-95f2-1d6f55adebd3)
+<br></br>
+![4](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/46b4aebe-a228-4deb-8669-168118f44689)
+<br></br>
+![5](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/3d2aa237-16c7-4119-8f3a-520f79243b79)
+<br></br>
+![6](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/93bf964e-3654-49bb-b165-2ef5d0001f43)
+<br></br>
+![7](https://github.com/canerdogann/BitirmeProjesi_1/assets/148792959/e384af43-1045-4cfb-bf0e-867216bbddb7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[@keyvanarasteh] (https://github.com/keyvanarasteh)
